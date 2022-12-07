@@ -2,6 +2,23 @@
 
 # Version `<dev>`
 
+### Enhancements:
+* #647: Re-add all styled versions of Separated Coop Checkpoint.
+
+### Bugfixes
+* #1875: Fix orientation of Clean door camera.
+* Fix Overgrown static non-block Stairs having incorrect panel positions.
+* #4150: Fix Paint Fizzlers not cleaning cubes that were prepainted with gel.
+* Fix #3671: Incorrect palette icon for Overgrown Signage item.
+* Fix P1 not restarting when you enter the elevator in preview mode.
+* Fix incorrect name and description for Absolute Fizzler package.
+* Fix duplicate description for Overgrown Gels.
+* Fix some bad optimisation in Overgrown SP entry elevator.
+* Fix Overgrown "staircase" entrance not opening worldportal in preview mode.
+* Fix #4247: Prevent portal bumping onto P1 ceiling Small Observation Room.
+* Fix internal dimensions for Clean Large Observation Room.
+* Fix 80s SP Lobby entrance not working.
+
 ------------------------------------------
 
 # Version 4.42.0
